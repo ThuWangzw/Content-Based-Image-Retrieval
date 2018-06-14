@@ -5,4 +5,3 @@
 	numpy:1.14.3
 	Pillow:5.1.0
 2.x.npy与y.npy是raw_data经过pillow包resize处理成299*299之后的数据，只在训练有用，太大了我传不上去了。
-3.raw_data里面我没有放数据进去，你们手动分类放进去吧~
